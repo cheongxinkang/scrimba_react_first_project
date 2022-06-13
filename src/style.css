@@ -40,6 +40,9 @@ nav {
 .main {
     color: #FFFFFF;
     padding: 57px 27px;
+    background-image: url('../src/images/reactjs-icon 2.png');
+    background-repeat: no-repeat;
+    background-position: right 75%;
 }
 
 .main--title {
